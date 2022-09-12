@@ -1,0 +1,21 @@
+Equipo,Escudo
+Alaves,https://cdn.comuniazo.com/img/teams/89.png?1598952091
+Athletic,https://cdn.comuniazo.com/img/teams/1.png?1579258647
+Atletico,https://cdn.comuniazo.com/img/teams/2.png?1579258647
+Barcelona,https://cdn.comuniazo.com/img/teams/3.png?1579258647
+Betis,https://cdn.comuniazo.com/img/teams/4.png?1579258647
+Cadiz,https://cdn.comuniazo.com/img/teams/105.png?1601898672
+Celta,https://cdn.comuniazo.com/img/teams/5.png?1579258647
+Elche,https://cdn.comuniazo.com/img/teams/75.png?1579258647
+Espanyol,https://cdn.comuniazo.com/img/teams/7.png?1579258647
+Getafe,https://cdn.comuniazo.com/img/teams/8.png?1579258647
+Granada,https://cdn.comuniazo.com/img/teams/71.png?1579258647
+Levante,https://cdn.comuniazo.com/img/teams/10.png?1579258647
+Mallorca,https://cdn.comuniazo.com/img/teams/11.png?1579258647
+Osasuna,https://cdn.comuniazo.com/img/teams/12.png?1579258647
+Rayo Vallecano,https://cdn.comuniazo.com/img/teams/70.png?1579258647
+Real Madrid,https://cdn.comuniazo.com/img/teams/15.png?1579258647
+Real Sociedad,https://cdn.comuniazo.com/img/teams/13.png?1579258647
+Sevilla,https://cdn.comuniazo.com/img/teams/17.png?1579258647
+Valencia,https://cdn.comuniazo.com/img/teams/18.png?1579258647
+Villarreal,https://cdn.comuniazo.com/img/teams/19.png?1579258647
